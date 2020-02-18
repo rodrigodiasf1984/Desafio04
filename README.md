@@ -8,7 +8,7 @@
   </a>
 </p>
 <p align="center">
-  <img alt="Frontend" src=".github/facebook_example_Desafio04.png" width="100%">
+  <img alt="Frontend" src=".github/facebook_example_Desafio04.png" width="50%">
 </p>
 
 <p align="center">    
