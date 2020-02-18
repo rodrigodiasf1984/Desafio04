@@ -9,8 +9,6 @@
 </p>
 <p align="center">
   <img alt="Frontend" src="facebook_example_Desafio04.png" width="50%">
-</p>
-<p align="center">
   <img alt="Frontend" src="facebook_example02_desafio04.png" width="50%">
 </p>
 
