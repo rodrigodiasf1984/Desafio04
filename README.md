@@ -6,11 +6,12 @@
   <a href="https://github.com/rodrigodiasf1984/Desafio04">
     <img alt="GitHub last commit" src="https://github.com/rodrigodiasf1984/Desafio04">
   </a>
-  <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/liveicaro/DevRadar.svg%22%3E
+</p>
+<p align="center">
+  <img alt="Frontend" src=".github/facebook_example_Desafio04.png" width="100%">
+</p>
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/liveicaro/DevRadar.svg%22%3E
-
+<p align="center">    
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
