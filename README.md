@@ -7,10 +7,6 @@
     <img alt="GitHub last commit" src="https://github.com/rodrigodiasf1984/Desafio04">
   </a>
 </p>
-<p align="center" display="inline-block">
-  <img alt="Frontend" src="facebook_example_Desafio04.png" width="50%">
-  <img alt="Frontend" src="facebook_example02_desafio04.png" width="50%">
-</p>
 
 <p align="center">    
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
@@ -43,6 +39,11 @@ Crie uma aplicação do zero utilizando Webpack, Babel, Webpack Dev Server e Rea
 Nessa aplicação você irá desenvolver uma interface semelhante com a do Facebook utilizando React.
 
 As informações contidas na interface são estáticas e não precisam refletir nenhuma API REST ou back-end.
+
+<p align="center" display: inline-block>
+  <img alt="Frontend" src="facebook_example_Desafio04.png" width="50%">
+  <img alt="Frontend" src="facebook_example02_desafio04.png" width="50%">
+</p>
 
 
 ## :memo: Licença
