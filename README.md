@@ -40,9 +40,9 @@ Nessa aplicação você irá desenvolver uma interface semelhante com a do Faceb
 
 As informações contidas na interface são estáticas e não precisam refletir nenhuma API REST ou back-end.
 
-<p align="center" display: inline-block>
-  <img alt="Frontend" src="facebook_example_Desafio04.png" width="50%">
-  <img alt="Frontend" src="facebook_example02_desafio04.png" width="50%">
+Exemplos:
+<p align="center">
+  ![alt-text-1](acebook_example_Desafio04.png "Exemplo-1") ![alt-text-2](facebook_example02_desafio04.png "Exemplo-2")  
 </p>
 
 
