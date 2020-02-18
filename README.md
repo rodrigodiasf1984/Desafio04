@@ -42,8 +42,8 @@ As informações contidas na interface são estáticas e não precisam refletir 
 
 Exemplos:
 <p float="left">
-  <img alt="Frontend" src="facebook_example_Desafio04.png" width="50%">
-  <img alt="Frontend" src="facebook_example02_desafio04.png" width="50%">
+  <img alt="Frontend" src="facebook_example_Desafio04.png" width="425">
+  <img alt="Frontend" src="facebook_example02_desafio04.png" width="425">
 </p>
 
 
