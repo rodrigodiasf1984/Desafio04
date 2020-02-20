@@ -20,7 +20,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src=".github/projeto.png" width="100%">
+  <img alt="Frontend" src=".github/https://camo.githubusercontent.com/8c13dc2618dbd7f76d1d574350b98fdee1335ce5/68747470733a2f2f726f636b6574736561742d63646e2e73332d73612d656173742d312e616d617a6f6e6177732e636f6d2f626f6f7463616d702d6865616465722e706e67" width="100%">
 </p>
 
 ## :rocket: Tecnologias
@@ -39,6 +39,8 @@ Nessa aplicação você irá desenvolver uma interface semelhante com a do Faceb
 
 As informações contidas na interface são estáticas e não precisam refletir nenhuma API REST ou back-end.
 
+## Exemplo:
+![alt-text-1](.github/facebook_example_desafio04.png "Exemplo-1") ![alt-text-2](facebook_example02_desafio04.png "Exemplo-2")
 
 ## :memo: Licença
 
