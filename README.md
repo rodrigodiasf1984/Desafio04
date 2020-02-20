@@ -1,8 +1,7 @@
-# Desafio04
 
 
 <h4 align="center">
-  ☕ Code and coffee+coffee and knowledge
+  ☕ Desafio 04
 </h4>
 <p align="center">
   <a href="https://github.com/rodrigodiasf1984/Desafio04">
@@ -39,8 +38,6 @@ Crie uma aplicação do zero utilizando Webpack, Babel, Webpack Dev Server e Rea
 Nessa aplicação você irá desenvolver uma interface semelhante com a do Facebook utilizando React.
 
 As informações contidas na interface são estáticas e não precisam refletir nenhuma API REST ou back-end.
-
->Esse projeto foi feito no Windows, depois irei fazer outro no Linux para aplicar os conhecimentos adquiridos nessa semana.
 
 
 ## :memo: Licença
