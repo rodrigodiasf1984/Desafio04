@@ -40,7 +40,7 @@ Nessa aplicação você irá desenvolver uma interface semelhante com a do Faceb
 As informações contidas na interface são estáticas e não precisam refletir nenhuma API REST ou back-end.
 
 ## Exemplo:
-![alt-text-1](facebook_example_desafio04.png "Exemplo-1") ![alt-text-2](facebook_example02_desafio04.png "Exemplo-2")
+<img src="facebook_example_desafio04.png" width="425"/> <img src="facebook_example02_desafio04.png" width="425"/> 
 
 
 ## :memo: Licença
